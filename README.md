@@ -19,8 +19,11 @@ export class AppModule {}
 ## Instalar TypeORM y driver Postgres
  yarn add @nestjs/typeorm typeorm pg
 
-## Proyecto de ejemplo
+## Proyecto de ejemplo PostgreSQL
 https://github.com/Klerith/nest-teslo-shop/tree/fin-seccion-10
+
+## Proyecto de ejemplo MongoDB
+https://github.com/Klerith/nest-pokedex/tree/fin-seccion-7
 
 ## Documentacion de NestJS
 https://docs.nestjs.com/techniques/database
