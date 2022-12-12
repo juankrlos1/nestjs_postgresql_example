@@ -6,6 +6,9 @@ yarn add @nestjs/config
 
 npm i @nestjs/config
 
+## Instalar TypeORM y driver Postgres
+ yarn add @nestjs/typeorm typeorm pg
+
 ## Proyecto de ejemplo
 https://github.com/Klerith/nest-teslo-shop/tree/fin-seccion-10
 
